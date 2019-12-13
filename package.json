@@ -1,7 +1,7 @@
 {
   "name": "device",
   "dependencies": {
-    "npm": "^5.8.0"
+    "npm": "^6.13.4"
   },
   "version": "0.1.0",
   "devDependencies": {
